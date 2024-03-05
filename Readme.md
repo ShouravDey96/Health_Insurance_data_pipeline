@@ -1,17 +1,21 @@
 Requirements Specifications Document
 
 1.	 Introduction – The document specifies the data pipeline, as the product, to be used to enhance revenue and understanding customer behavior. We will be preparing the data for the data analysts/scientists of the organization to enable better decision making.
+
 a.	Purpose – The purpose of the product is to prepare a ready-to-analyze dataset(s) to track the customer behavior, condition of customer so that the Health Care Insurance (HCI) company can customize offers for them to buy insurance policies and also calculate royalties to the existing customers or the customer who have purchased policies in the past. 
+
 b.	Intended Audience and Use - The data scientist(s), data analysts, project manager. Developers, product owner and related subject matter experts (SMEs)
+
 c.	Product Scope - 
 Benefit- The benefits of the product is to reduce ETL processing time of the data and enhance cost effectiveness, 
 Objectives are to extract the data from local file system and store it in a Datalake (AWS S3). Transform, clean and validate, the data from the datalake, using Databricks, and load into Datawarehouse (AWS Redshift) for further analysis 
 Goals intended is to maximum query performance and optimize other processing task related to ETL and present a validated and cleaned dataset for analysis. This should relate to overall business goals, especially if teams outside of development will have access to the SRS.
+
 d.	Definitions and Acronyms - ETL --> Extract, Transform and Load.  
 
 
 
-2.	Overall Description - Description of the product (pipeline) we’re going to build.
+4.	Overall Description - Description of the product (pipeline) we’re going to build.
 Why is this product needed? --> To ensure low latency, scalable and secure data pipeline.
 Who is it for? --> For the client & product owner to maximize revenue
 Is it a new product? -->  Yes
