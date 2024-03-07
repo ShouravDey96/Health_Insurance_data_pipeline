@@ -1,0 +1,11 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Story,SCRUM-13,10012,Pushing Jira to Github,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,To Do,,3/5/2024 21:32,3/5/2024 21:32,
+Story,SCRUM-12,10011,Pushing System Spec and Soln docs to Github,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,In Progress,,3/5/2024 21:32,3/5/2024 21:32,
+Story,SCRUM-11,10010,Saving output to Redshift,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,To Do,,3/5/2024 21:31,3/5/2024 21:31,
+Story,SCRUM-10,10009,Querying data and analysis,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,To Do,,3/5/2024 21:31,3/5/2024 21:31,
+Story,SCRUM-9,10008,Cleaning data from s3 using databricks,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,In Progress,,3/5/2024 21:30,3/5/2024 21:32,
+Story,SCRUM-8,10007,Storing Data to S3,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,Done,Done,3/5/2024 21:30,3/5/2024 21:32,
+Story,SCRUM-7,10006,System Design,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,Done,Done,3/5/2024 21:29,3/5/2024 21:31,
+Story,SCRUM-6,10005,Solution Requirement Doc,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,In Progress,,3/5/2024 21:29,3/5/2024 21:31,
+Subtask,SCRUM-2,10001,Solution Design Doc,,,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,To Do,,3/5/2024 20:20,3/5/2024 20:20,
+Story,SCRUM-1,10000,Health-Care Insurance data pipeline: Requirement Spec Doc,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Shourav,712020:9aeae2ee-1117-4087-a88e-fc3d8d6cbe03,Medium,Done,Done,3/5/2024 20:19,3/5/2024 21:31,
